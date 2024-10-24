@@ -1,5 +1,5 @@
 
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+import { Card, CardContent,  CardHeader, CardTitle } from '@/components/ui/card'
 import { Battery, Leaf, Zap, TrendingUp } from 'lucide-react'
 
 export function InitiativesComponent() {

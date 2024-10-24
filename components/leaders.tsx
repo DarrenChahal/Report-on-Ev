@@ -49,7 +49,7 @@ const leaders = [
 export function LeadersComponent() {
   return (
     <div className="space-y-8">
-      <h1 className="text-3xl font-bold">Key Leaders in India's EV Industry</h1>
+      <h1 className="text-3xl font-bold">Key Leaders in Indian EV Industry</h1>
       
       <div className="grid md:grid-cols-2 gap-6">
         {leaders.map((leader, index) => (

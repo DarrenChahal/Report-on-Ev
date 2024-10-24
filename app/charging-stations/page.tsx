@@ -30,7 +30,7 @@ export default function ChargingStations() {
         <Card>
           <CardHeader>
             <CardTitle>Find Nearest Charging Station</CardTitle>
-            <CardDescription>Locate charging stations near you using Tata Motors' charging locator</CardDescription>
+            <CardDescription>Locate charging stations near you using Tata Motors charging locator</CardDescription>
           </CardHeader>
           <CardContent>
             <p className="mb-4">
