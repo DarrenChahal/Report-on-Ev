@@ -31,7 +31,7 @@ const leaders = [
     description: "Driving mass-market adoption of electric two-wheelers in India."
   },
   {
-    name: "Mahesh Babu",
+    name: "Suman Mishra",
     company: "Mahindra Electric",
     segment: "Four-wheelers",
     image: "/placeholder.svg?height=100&width=100",
